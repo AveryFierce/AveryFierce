@@ -12,3 +12,19 @@ comicStrip = ['Codey sees the trail', 'Codey starts the hike', 'Codey is halfway
 // and save it to the variable selection (already written in the script by code academy)
 selection = comicStrip[3]
 
+
+Completed course: Learn how to code. Now working on course: Learn Pyton 3.
+Just wrote code: (script.py)
+my_age = 32
+half_my_age = my_age % 2
+greeting = 'Hello '
+name = 'Alex'
+greeting_with_name = greeting + name
+print(greeting_with_name)
+print('You are:', my_age, 'Years old')
+print('Your half age is:', half_my_age)
+
+## output shows: 
+Hello Alex
+You are: 32 Years old
+Your half age is: 0
